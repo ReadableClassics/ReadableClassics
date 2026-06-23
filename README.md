@@ -1,32 +1,46 @@
-# License
+# Modern English Revisions of Historical Classics
 
-© 2026 Readable Classics
+This collection contains modern English editions of public-domain historical works. Each edition preserves the original content while rewriting the language into clear, natural American English, making the texts easier to read without changing their historical meaning.
 
-Except where otherwise noted, the original editorial content in this repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+Many standard translations were written centuries ago and use archaic grammar, long sentences, and outdated vocabulary that can make them difficult for modern readers. These editions remove those language barriers while remaining faithful to the original works.
 
-You are free to:
+## Editorial Philosophy
 
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material.
+Every edition in this collection follows the same principles:
 
-Under the following terms:
+* Preserve every factual statement, event, name, date, and historical detail.
+* Do not summarize, omit, or add information.
+* Rewrite only the language—not the content.
+* Maintain the original organization of books, chapters, and sections whenever practical.
+* Apply consistent terminology across the entire work.
 
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
+The objective is to produce editions that are easier to read while remaining suitable for historical study and comparison with the original translation.
 
-The full license is available at:
-https://creativecommons.org/licenses/by-nc/4.0/
+## Quality Assurance
 
-## Original Source Material
+Each work undergoes multiple stages of review before publication.
 
-The underlying historical works reproduced in this repository are in the public domain. This license applies only to the original editorial contributions contained in this repository, including but not limited to:
+* **Modernization:** The original English text is rewritten into clear, contemporary American English.
+* **Independent verification:** The rewritten text is compared against the source to identify omissions, altered meanings, or unintended additions.
+* **Correction pass:** Any issues found during verification are corrected and reviewed again.
+* **Terminology consistency:** Glossaries of important people, places, titles, and historical terms help ensure names and specialized vocabulary remain consistent throughout each work.
+* **Final normalization:** Editorial term updates are applied uniformly across the entire text.
 
-- Modernized English text
-- Editorial revisions
-- Chapter summaries
-- Footnotes and annotations
-- HTML formatting and presentation
-- Glossaries and indexes
-- Other original content created for this edition
+## Reader Features
 
-This edition was produced using an AI-assisted editorial workflow with human review for accuracy, consistency, and readability. This license does not alter the public-domain status of the original historical works.
+Every edition includes an interactive HTML reader designed for both casual reading and scholarly reference.
+
+Features include:
+
+* Complete book, chapter, and section navigation
+* Side-by-side comparison of the original and modernized text
+* Word-level difference highlighting
+* Footnotes with bidirectional navigation
+* Chapter and section summaries
+* Searchable indexes of people and places
+* Breadcrumb navigation
+* Self-contained HTML files with no external dependencies
+
+## Scope
+
+Although the first editions focus on the works of Flavius Josephus, this collection is intended to grow over time to include other significant public-domain historical texts, providing modern, faithful editions that are easier for today's readers to explore and study.
