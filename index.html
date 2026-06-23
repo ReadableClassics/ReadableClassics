@@ -1,4 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-  <body></body>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ReadableClassics</title>
+</head>
+<body>
+  <h1>Books</h1>
+  <ul id="book-list"></ul>
+
+  <script>
+    fetch("Books/index.json")
+      .then(res => res.json())
+      .then(data => {
+        const list = document.getElementById("book-list");
+
+        data.books.forEach(book => {
+          const li = document.createElement("li");
+
+          const a = document.createElement("a");
+          a.href = book.file;
+          a.textContent = book.title;
+
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
 </html>
