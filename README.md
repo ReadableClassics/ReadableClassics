@@ -10,7 +10,7 @@ Every edition in this collection follows the same principles:
 
 * Preserve every factual statement, event, name, date, and historical detail.
 * Do not summarize, omit, or add information.
-* Rewrite only the language—not the content.
+* Rewrite only the language while maintaining the content.
 * Maintain the original organization of books, chapters, and sections whenever practical.
 * Apply consistent terminology across the entire work.
 
